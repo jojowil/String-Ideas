@@ -30,4 +30,9 @@ public class UCSDString {
     public String toString() {
         return new String(data);
     }
+
+    public int indexOf(char c) {
+
+        return -1;
+    }
 }
